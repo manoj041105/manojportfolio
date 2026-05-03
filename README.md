@@ -1,4 +1,4 @@
-Here's your GitHub README! To use it:
+
 For your GitHub Profile README:
 
 Create a new repo named exactly satyamanoj (your GitHub username)
